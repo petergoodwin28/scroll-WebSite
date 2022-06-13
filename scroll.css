@@ -1,0 +1,27 @@
+body{
+    
+}
+
+
+#header {
+    padding: 20rem;
+    height: 50rem;
+    background-image: linear-gradient(rgb(23, 223, 23), blue, rgb(142, 26, 142) );
+}
+
+#slide2 {
+
+    height: 50rem;
+    background-color: blue;
+    transition: all 2s ease-in-out;
+
+    text-align: center;
+
+}
+
+.fade-in{
+    color: greenyellow;
+    background-color: orange !important;
+    transition: all 2s ease-in-out;
+}
+
